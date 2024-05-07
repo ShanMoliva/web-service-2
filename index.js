@@ -19,7 +19,7 @@ const data = {
     job1: 'Front End Developer / something.com',
     job2: 'Mobile Developer / something.com',
     job3: 'Web Developer / something.com'
-  }
+  },
   awards: [
     'Dean\'s List, USPF',
     '3rd place in CCS Hackathon'

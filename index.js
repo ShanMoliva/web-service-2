@@ -29,7 +29,7 @@ const profile = {
     address: 'cebu city, philippines.',
     phoneNumber: '09132341',
     email: 'Smoliva@uspf.edu.ph',
-    birthdate: 'March 25, 2003',
+    birthdate: 'December 13, 2000',
     sex: 'Male'
   },
 

@@ -25,13 +25,14 @@ const profile = {
     '3rd place in CCS Hackathon'
   ],
   personalInfo: {
-    name: 'Francisco C Villahermosa',
-    address: 'Lahug, Cebu City',
-    phoneNumber: '09564635763',
-    email: 'villahermosafrancisco6@gmail.com',
+    name: 'SHAN JOSEF JAMIL N. MOLIVA',
+    address: 'cebu city, philippines.',
+    phoneNumber: '09132341',
+    email: 'Smoliva@uspf.edu.ph',
     birthdate: 'March 25, 2003',
     sex: 'Male'
-  }
+  },
+
 };
 
 // Enable CORS for all routes

@@ -15,11 +15,11 @@ const data = {
     'Basic understanding of version control systems, such as Git',
     'Strong teamwork and communication skills through collaborative project work'
   ],
-  experience: [
-    'Utilized version control with Git to manage and track changes to the project, enhancing collaboration and workflow efficiency.',
-    'Demonstrated strong problem-solving skills to troubleshoot and resolve technical issues, ensuring seamless website functionality across different browsers and devices.',
-    'Collaborated with a team of developers to design and implement a responsive website for a university event, utilizing HTML, CSS, and JavaScript.'
-  ],
+  experience: {
+    job1: 'Front End Developer / something.com',
+    job2: 'Mobile Developer / something.com',
+    job3: 'Web Developer / something.com'
+  }
   awards: [
     'Dean\'s List, USPF',
     '3rd place in CCS Hackathon'

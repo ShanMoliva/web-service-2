@@ -6,8 +6,6 @@ const port = 3000;
 const data = {
   education: {
     degree: 'Bachelor of Science in Information Technology (BSIT)',
-    degree2: 'Bachelor of Science in Information Technology (BSIT2)',
-    year: '2nd Year Student (2023-2024)',
     university: 'University of Southern Philippines Foundation (USPF)'
   },
   skills: [

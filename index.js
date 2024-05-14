@@ -6,6 +6,7 @@ const port = 3000;
 const data = {
   education: {
     degree: 'Bachelor of Science in Information Technology (BSIT)',
+    degree2: 'Bachelor of Science in Information Technology (BSIT2)',
     year: '2nd Year Student (2023-2024)',
     university: 'University of Southern Philippines Foundation (USPF)'
   },
@@ -18,7 +19,8 @@ const data = {
   experience: {
     job1: 'Front End Developer / something.com',
     job2: 'Mobile Developer / something.com',
-    job3: 'Web Developer / something.com'
+    job3: 'Web Developer / something.com',
+    job4: 'backend Developer / something.com'
   },
   awards: [
     'Dean\'s List, USPF',
@@ -26,7 +28,7 @@ const data = {
   ],
   personalInfo: {
     name: 'SHAN JOSEF JAMIL N. MOLIVA',
-    address: 'cebu city, philippines.',
+    address: 'cebu city, america.',
     phoneNumber: '09132341',
     email: 'Smoliva@uspf.edu.ph',
     birthdate: 'December 13, 2000',

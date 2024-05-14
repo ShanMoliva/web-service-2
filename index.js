@@ -18,9 +18,11 @@ const data = {
   ],
   experience: {
     job1: 'Front End Developer / something.com',
+    description1: 'Highly skilled',
     job2: 'Mobile Developer / something.com',
+    description2: 'Highly skilled',
     job3: 'Web Developer / something.com',
-    job4: 'backend Developer / something.com'
+    description3: 'Highly skilled'
   },
   awards: [
     'Dean\'s List, USPF',
